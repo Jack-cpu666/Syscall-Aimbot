@@ -1183,7 +1183,7 @@ Accuracy: 92.7% (same for both)
 
 ## Credits
 
-**Developer:** Eshan VOR
+**Developer:** Not telling you
 **Framework:** ONNX Runtime (Microsoft)
 **ML Model:** YOLOv8 (Ultralytics)
 **Build System:** Meson + Ninja
@@ -1210,3 +1210,4 @@ For issues, questions, or contributions:
 *Last updated: 2025-10-15*
 *Documentation version: 1.0*
 *Compatible with: thefinal.c v1.0*
+
