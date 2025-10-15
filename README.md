@@ -17,7 +17,7 @@
 
 ## Overview
 
-The AIRPLANE Defense System is a real-time computer vision Aimbbot built in C that uses ONNX Runtime and YOLOv8 object detection to identify and track targets on screen. The system captures a region of the screen, processes it through a neural network, and provides automated target acquisition capabilities.
+The AIRPLANE Defense System is a real-time computer vision Aimbot built in C that uses ONNX Runtime and YOLOv8 object detection to identify and track targets on screen. The system captures a region of the screen, processes it through a neural network, and provides automated target acquisition capabilities.
 
 ### Key Features
 - **Real-time object detection** using YOLOv8 neural network
@@ -1210,5 +1210,6 @@ For issues, questions, or contributions:
 *Last updated: 2025-10-15*
 *Documentation version: 1.0*
 *Compatible with: thefinal.c v1.0*
+
 
 
